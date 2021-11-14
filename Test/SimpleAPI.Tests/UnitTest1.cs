@@ -12,7 +12,7 @@ namespace SimpleAPI.Tests
         {
               obj=new WeatherForecastController();
               var objget=obj.Get(1);
-              Assert.Equal("Ritu Garg1",objget.Value);
+              Assert.Equal("Ritu Garg",objget.Value);
         }
     }
 }
