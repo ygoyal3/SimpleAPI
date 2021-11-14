@@ -1,0 +1,24 @@
+1. What is CI/CD pipleine?  ---working on it  23-10-2021
+Solution:Createing two applications and working on it...........
+Before starting tomorrow session ,github repository azure devops account create 
+What is RabbitMQ in microservice and how to configure RabbitMQ in microserice?
+How RabbitMQ is differ from Kafka?
+**How to handle large dataset in react and angular?
+what is azure devops?---working on it  23-10-2021
+alternate of azure devops ---working on it  23-10-2021
+how to connect github and azure to azure devops? ---working on it  23-10-2021
+how to configure azure devops pipleine ?---working on it  23-10-2021
+**how to cont.... integrate and deploy to production?---working on it  23-10-2021
+what is CQRS pattern
+ What is MediatR pattern
+ Difference between Monolithic and microservice
+ *How to implement lazy loading pattern in angular
+ Different between subject,behaviorsubject,asyncSubject,RelaySubject,obervable?
+ **How to create custom cli in Angular/ReactJs?
+ *Explain complete RxJS?
+ ng new Ritu approx 300 MB size
+ what is webpack  and complete knowledge of webpack
+ Azure kubernetes service
+
+
+
