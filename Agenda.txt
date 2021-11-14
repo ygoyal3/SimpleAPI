@@ -21,4 +21,14 @@ what is CQRS pattern
  Azure kubernetes service
 
 
+Create Agent
+PS C:\> mkdir agent ; cd agent
+PS C:\agent> Add-Type -AssemblyName System.IO.Compression.FileSystem ; [System.IO.Compression.ZipFile]::ExtractToDirectory("$HOME\Downloads\vsts-agent-win-x64-2.195.0.zip", "$PWD")
+
+PS C:\agent> .\config.cmd
+
+PS C:\agent> .\run.cmd
+
+PAT : et76y7pimsto7i2rbpdbqvtdk7h2rebfnzy3eqqmv2fbjk5j6ofq
+
 
